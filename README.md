@@ -1,6 +1,7 @@
 # Henry’s Moste Potente Potions
 *By Omricon*  
-Version: 1.2  
+Version: 1.2
+Partial translation by *XeroRBattleR*
 ## Introduction
 These recipes are made to give you the best quality potions, while streamlining the brewing process as much as possible. That makes it easier to brew them repeatedly without needing to spend time on unnecessary steps.  
 
@@ -79,7 +80,7 @@ All potions were tested in version:
 19. [Měsíčkový odvar](#Měsíček-decoction)
 20. [Mintha](#Mátaha-perfume)
 21. [Pálenka](#Pálenka)
-22. [Nighthawk](#nighthawk)
+22. [Sýček](#Sýček)
 23. [Odvar proti bolesti](#painkiller-brew)
 24. [Quickfinger](#quickfinger)
 25. [Sejvovice](#saviour-schnapps)
@@ -1095,7 +1096,7 @@ x2 Pelyněk
 
 ---
 
-## Nighthawk
+## Sýček
 *No. 22*
 ### Ingredients
 
