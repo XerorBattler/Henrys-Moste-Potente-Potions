@@ -17,23 +17,23 @@ Timing using the hourglass can be a bit counter intuitive, some of the recipes a
 The hourglass is *actually* a *10 second glass*, as that's how long it takes for the sand to run out. Therefore *halfway* means ~5 seconds and *just before* means there is ~1-2 seconds left in the hourglass.  
 
 ### Dried herbs
-* Without **Dark Arts Apprentice** active, you may use up to 66% dried herbs without it being considered a loss in quality. **Note:** At least one herb must be fresh (i.e. not charcoal or boar's tusk).
+* Without **Dark Arts Apprentice** active, you may use up to 66% dried herbs without it being considered a loss in quality. **Note:** At least one herb must be fresh (i.e. not Uhlí or boar's tusk).
 * With **Dark Arts Apprentice** active, you may replace all herbs with dried herbs without it being considered a loss in quality.
 
-Testing of dried herbs was done with Mintha perfume and Dollmaker poison, where you can get away with 3/5 and 2/3 herbs being dried, resulting in a 66% dried/fresh ratio.  
+Testing of dried herbs was done with Mátaha perfume and Dollmaker poison, where you can get away with 3/5 and 2/3 herbs being dried, resulting in a 66% dried/fresh ratio.  
 
 ### Perks
 - **Secret of Secrets** unlocks *Henry's level* of potions and poisons. However, not all alchemy recipes have levels. This guide will always deliver the best quality.
 - **Secret of Matter / II** unlocks additional potions when brewing. Together they will give x6 potions and poisons, x8 soap, and x18 powders.
-- **Secret of Equilibrium / II** is not required. The following guide does not require those perks to achieve maximum quality. If you have taken one of these perks, you may create and consume *Lethean Water* to reset all your perks.
+- **Secret of Equilibrium / II** is not required. The following guide does not require those perks to achieve maximum quality. If you have taken one of these perks, you may create and consume *Lethean Voda* to reset all your perks.
 - **Dark Arts Apprentice** allows you to use only dried herbs if you brew the potion within 00:00–04:30. It also allows you to get up to one mistake without lowering the quality of the final product. However, it will lower the quantity. Therefore it is recommended to not cut corners to get the max quantity.
 
 ### Leveling Alchemy
-If you want to level alchemy I would recommend mostly brew Saviour Schnapps until you can brew Henry's level quality. Then after that, a mix of Fox, Marigold Decoctions, and Saviour Schnapps. Make sure to drink a Henry's Fox potion for the 50% xp gain when leveling alchemy (or any stat/skill for that matter).  
+If you want to level alchemy I would recommend mostly brew Saviour Schnapps until you can brew Henry's level quality. Then after that, a mix of Fox, Měsíček Decoctions, and Saviour Schnapps. Make sure to drink a Henry's Fox potion for the 50% xp gain when leveling alchemy (or any stat/skill for that matter).  
 
 All three potions are useful throughout your playthrough from beginning to end, and even though some potions are faster to brew, you won't necessarily use them during your playthrough.  
 
-Additionally, Charcoal, Marigold, and Nettle is easily obtained almost anywhere on both maps. Belladonna and St. John's Wort is a little more rare, but still rather easily found on fields and in forests.  
+Additionally, Uhlí, Měsíček, and Kopřiva is easily obtained almost anywhere on both maps. Rulík and Třezalka is a little more rare, but still rather easily found on fields and in forests.  
 
 ### Henry's Remarks
 Henry can have remarks about the brewing process if something goes wrong. These are often misleading and the issue might be something else entirely, so take the remarks with a fistful of salt.  
@@ -64,7 +64,7 @@ All potions were tested in version:
 4. [Bane Poison](#bane-poison)
 5. [Bowman’s Brew](#bowmans-brew)
 6. [Buck’s Blood Potion](#bucks-blood-potion)
-7. [Chamomile Decoction](#chamomile-decoction)
+7. [Heřmánek Decoction](#Heřmánek-decoction)
 8. [Cockerel](#cockerel)
 9. [Digestive Potion](#digestive-potion)
 10. [Dollmaker Potion](#dollmaker-potion)
@@ -73,11 +73,11 @@ All potions were tested in version:
 13. [Fox](#fox)
 14. [Hair o’ the Dog](#hair-o-the-dog)
 15. [Lead Shot Gunpowder](#lead-shot-gunpowder)
-16. [Lethean Water](#lethean-water)
+16. [Lethean Voda](#lethean-Voda)
 17. [Lion Perfume](#lion-perfume)
 18. [Lullaby](#lullaby)
-19. [Marigold Decoction](#marigold-decoction)
-20. [Mintha Perfume](#mintha-perfume)
+19. [Měsíček Decoction](#Měsíček-decoction)
+20. [Mátaha Perfume](#Mátaha-perfume)
 21. [Moonshine](#moonshine)
 22. [Nighthawk](#nighthawk)
 23. [Painkiller Brew](#painkiller-brew)
@@ -93,20 +93,20 @@ All potions were tested in version:
 ### Ingredients
 
 ```
-Liquid: Spirits
-x1 Belladonna
+Liquid: Kořalka
+x1 Rulík
 x1 Boar’s Tusk
-x2 Comfrey
+x2 Kostival
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Put **x2 Comfrey** into **Mortar** and **Grind** it
+1. Add **Kořalka** to the **Cauldron**
+2. Put **x2 Kostival** into **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. Add **x1 Boar’s Tusk** to the **Cauldron** 
 5. **Lower** the **Cauldron**
-6. Put **x1 Belladonna** into the **Mortar** and **Grind** it
+6. Put **x1 Rulík** into the **Mortar** and **Grind** it
 7. Put the contents of the **Mortar** into the **Dish**
 8. **Raise** the **Cauldron**
 9. Add the contents of the **Dish** to the **Cauldron**
@@ -114,12 +114,12 @@ x2 Comfrey
 
 ### Instructions \[Level 18+]
 
-1. Add **Spirits** to the **Cauldron**
-2. Put **x2 Comfrey** into **Mortar** and **Grind** it
+1. Add **Kořalka** to the **Cauldron**
+2. Put **x2 Kostival** into **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. Add **x1 Boar’s Tusk** to the **Cauldron** 
 5. **Lower** the **Cauldron**
-6. Put **x1 Belladonna** into the **Mortar** and **Grind** it
+6. Put **x1 Rulík** into the **Mortar** and **Grind** it
 7. Add the contents of the **Mortar** to the **Cauldron**
 8. While the animation is playing, repeatedly press the **Raise Cauldron** button
 9. **Distil** the contents of the **Cauldron** into a **Phial**
@@ -144,17 +144,17 @@ x2 Comfrey
 ### Ingredients
 
 ```
-Liquid: Water
-x2 Dandelion
-x1 Marigold  
+Liquid: Voda
+x2 Pampeliška
+x1 Měsíček  
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x2 Dandelion** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x2 Pampeliška** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Marigold** into the **Mortar** and **Grind** it
+4. Put **x1 Měsíček** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the turn **Hourglass** button
 7. Wait until the **Hourglass** runs out
@@ -162,10 +162,10 @@ x1 Marigold
 
 ### Instructions \[Level 12+]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x2 Dandelion** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x2 Pampeliška** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Marigold** into the **Mortar** and **Grind** it
+4. Put **x1 Měsíček** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. **Distil** the contents of the **Cauldron** into a **Phial**
 
@@ -189,27 +189,27 @@ x1 Marigold
 ### Ingredients
 
 ```
-Liquid: Spirits
-x1 Sage
-x2 Wormwood
+Liquid: Kořalka
+x1 Šalvěj
+x2 Pelyněk
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x1 Sage** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x1 Šalvěj** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Wormwood** into the **Mortar** and **Grind** it
+4. Put **x2 Pelyněk** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the turn **Hourglass** button
 7. When the **Hourglass** is halfway, **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 12+]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x1 Sage** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x1 Šalvěj** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Wormwood** into the **Mortar** and **Grind** it
+4. Put **x2 Pelyněk** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. **Distil** the contents of the **Cauldron** into a **Phial**
 
@@ -233,33 +233,33 @@ x2 Wormwood
 ### Ingredients
 
 ```
-Liquid: Wine
-x1 Amanita Muscaria
-x2 Belladonna
-x1 Wormwood
+Liquid: Víno
+x1 Muchomůrka
+x2 Rulík
+x1 Pelyněk
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Wine** to the **Cauldron**
-2. Add **x1 Wormwood** to the **Cauldron**
+1. Add **Víno** to the **Cauldron**
+2. Add **x1 Pelyněk** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Belladonna** into the **Mortar** and **Grind** it
+4. Put **x2 Rulík** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. Pump the **Bellows x5** times
 7. **Raise** the **Cauldron**
-8. Add **x1 Amanita Muscaria** to the **Cauldron**
+8. Add **x1 Muchomůrka** to the **Cauldron**
 9. **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 14+]
 
-1. Add **Wine** to the **Cauldron**
-2. Add **x1 Wormwood** to the **Cauldron**
+1. Add **Víno** to the **Cauldron**
+2. Add **x1 Pelyněk** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Belladonna** into the **Mortar** and **Grind** it
+4. Put **x2 Rulík** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. Pump the **Bellows x1** time
-7. Add **x1 Amanita Muscaria** to the **Cauldron**
+7. Add **x1 Muchomůrka** to the **Cauldron**
 8. While the animation is playing, repeatedly press the **Raise Cauldron** button
 9. **Distil** the contents of the **Cauldron** into a **Phial**
 
@@ -283,19 +283,19 @@ x1 Wormwood
 ### Ingredients
 
 ```
-Liquid: Spirits
-x2 Eyebright
-x1 St. John’s Wort
+Liquid: Kořalka
+x2 Světlík
+x1 Třezalka
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x2 Eyebright** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x2 Světlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. While the animation is playing, repeatedly press the turn **Hourglass** button
 5. Wait until the **Hourglass** runs out
-6. Put **x1 St. John’s Wort** into the **Mortar** and **Grind** it
+6. Put **x1 Třezalka** into the **Mortar** and **Grind** it
 7. Put the contents of the **Mortar** into the **Dish**
 8. **Raise** the **Cauldron**
 9. Add the contents of the **Dish** to the **Cauldron**
@@ -306,10 +306,10 @@ x1 St. John’s Wort
 
 ### Instructions \[Level 28+]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x2 Eyebright** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x2 Světlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 St. John’s Wort** into the **Mortar** and **Grind** it
+4. Put **x1 Třezalka** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. Pump the **Bellows x1** time
 7. **Raise** the **Cauldron**
@@ -335,33 +335,33 @@ x1 St. John’s Wort
 ### Ingredients
 
 ```
-Liquid: Oil
-x1 Comfrey
-x1 Dandelion
-x1 St. John’s Wort
+Liquid: Olej
+x1 Kostival
+x1 Pampeliška
+x1 Třezalka
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Oil** to the **Cauldron**
-2. Put **x1 St. John’s Wort** into the **Mortar** and **Grind** it
+1. Add **Olej** to the **Cauldron**
+2. Put **x1 Třezalka** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Comfrey** to the **Cauldron**
+4. Add **x1 Kostival** to the **Cauldron**
 5. **Lower** the **Cauldron**
 6. While the animation is playing, repeatedly press the turn **Hourglass** button
-7. Just before the **Hourglass** runs out, add **x1 Dandelion** to the **Cauldron**
+7. Just before the **Hourglass** runs out, add **x1 Pampeliška** to the **Cauldron**
 8. Pump the **Bellows x5** times
 9. **Raise** the **Cauldron**
 10. **Pour** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 28+]
 
-1. Add **Oil** to the **Cauldron**
-2. Put **x1 St. John’s Wort** into the **Mortar** and **Grind** it
+1. Add **Olej** to the **Cauldron**
+2. Put **x1 Třezalka** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Comfrey** to the **Cauldron**
+4. Add **x1 Kostival** to the **Cauldron**
 5. **Lower** the **Cauldron**
-6. Add **x1 Dandelion** to the **Cauldron**
+6. Add **x1 Pampeliška** to the **Cauldron**
 7. Pump the **Bellows x1** times
 8. **Raise** the **Cauldron**
 9. **Pour** the contents of the **Cauldron** into a **Phial**
@@ -381,22 +381,22 @@ x1 St. John’s Wort
 
 ---
 
-## Chamomile Decoction
+## Heřmánek Decoction
 *No. 07*
 ### Ingredients
 
 ```
-Liquid: Wine
-x2 Chamomile
-x1 Sage
+Liquid: Víno
+x2 Heřmánek
+x1 Šalvěj
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Wine** to the **Cauldron**
-2. Put **x1 Sage** into the **Mortar** and **Grind** it
+1. Add **Víno** to the **Cauldron**
+2. Put **x1 Šalvěj** into the **Mortar** and **Grind** it
 3. Put the contents of the **Mortar** into the **Dish**
-4. Add **x2 Chamomile** to the **Cauldron**
+4. Add **x2 Heřmánek** to the **Cauldron**
 5. **Lower** the **Cauldron**
 6. Turn the **Hourglass**
 7. Just before the **Hourglass** runs out, **Raise** the **Cauldron**
@@ -405,9 +405,9 @@ x1 Sage
 
 ### Instructions \[Level 18+]
 
-1. Add **Wine** to the **Cauldron**
-2. Put **x1 Sage** into the **Mortar** but do not grind it
-3. Add **x2 Chamomile** to the **Cauldron**
+1. Add **Víno** to the **Cauldron**
+2. Put **x1 Šalvěj** into the **Mortar** but do not grind it
+3. Add **x2 Heřmánek** to the **Cauldron**
 4. **Lower** the **Cauldron**
 5. **Grind** the contents of the **Mortar**
 6. Add the contents of the **Mortar** to the **Cauldron**
@@ -434,30 +434,30 @@ x1 Sage
 ### Ingredients
 
 ```
-Liquid: Spirits
-x2 Mint
-x1 Valerian
+Liquid: Kořalka
+x2 Máta
+x1 Kozlík
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Put **x2 Mint** into the **Mortar** and **Grind** it
+1. Add **Kořalka** to the **Cauldron**
+2. Put **x2 Máta** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
 5. While the animation is playing, repeatedly press the turn **Hourglass** button
-6. Just before the **Hourglass** runs out, add **x1 Valerian** to the **Cauldron**
+6. Just before the **Hourglass** runs out, add **x1 Kozlík** to the **Cauldron**
 7. While the animation is playing, repeatedly press the turn **Hourglass** button
 8. Wait until the **Hourglass** runs out
 9. **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 28+]
 
-1. Add **Spirits** to the **Cauldron**
-2. Put **x2 Mint** into the **Mortar** and **Grind** it
+1. Add **Kořalka** to the **Cauldron**
+2. Put **x2 Máta** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
-5. Add **x1 Valerian** to the **Cauldron**
+5. Add **x1 Kozlík** to the **Cauldron**
 6. **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Quantity
@@ -480,34 +480,34 @@ x1 Valerian
 ### Ingredients
 
 ```
-Liquid: Water
-x1 Charcoal
-x1 Nettle
-x2 Thistle
+Liquid: Voda
+x1 Uhlí
+x1 Kopřiva
+x2 Bodlák
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x2 Thistle** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x2 Bodlák** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. While the animation is playing, repeatedly press the turn **Hourglass** button
-5. When the **Hourglass** is halfway, put **x1 Nettle** into the **Mortar** and **Grind** it
+5. When the **Hourglass** is halfway, put **x1 Kopřiva** into the **Mortar** and **Grind** it
 6. Add the contents of the **Mortar** to the **Cauldron**
 7. While the animation is playing, repeatedly press the turn **Hourglass** button
 8. When the **Hourglass** is halfway, **Raise** the **Cauldron**
-9. Put **x1 Charcoal** into the **Mortar** and **Grind** it
+9. Put **x1 Uhlí** into the **Mortar** and **Grind** it
 10. Add the contents of the **Mortar** to the **Cauldron**
 11. **Pour** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 16+]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x2 Thistle** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x2 Bodlák** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Charcoal** into the **Mortar** and **Grind** it
+4. Put **x1 Uhlí** into the **Mortar** and **Grind** it
 5. Put the contents of the **Mortar** into the **Dish**
-6. Put **x1 Nettle** into the **Mortar** and **Grind** it
+6. Put **x1 Kopřiva** into the **Mortar** and **Grind** it
 7. Add the contents of the **Mortar** to the **Cauldron**
 8. Add the contents of the **Dish** to the **Cauldron**
 9. While the animation is playing, repeatedly press the **Raise Cauldron** button
@@ -533,29 +533,29 @@ x2 Thistle
 ### Ingredients
 
 ```
-Liquid: Spirits
-x2 Herb Paris
-x1 Valerian
+Liquid: Kořalka
+x2 Vraní oko
+x1 Kozlík
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x2 Herb Paris** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x2 Vraní oko** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. While the animation is playing, repeatedly press the turn **Hourglass** button
 5. Just before the **Hourglass** runs out, turn the **Hourglass** again**
-6. When the **Hourglass** is halfway, put **x1 Valerian** into the **Mortar** and **Grind** it
+6. When the **Hourglass** is halfway, put **x1 Kozlík** into the **Mortar** and **Grind** it
 7. Add the contents of the **Mortar** to the **Cauldron**
 8. While the animation is playing, repeatedly press the turn **Hourglass** button
 9. When the **Hourglass** is halfway, **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 18+]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x2 Herb Paris** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x2 Vraní oko** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Valerian** into the **Mortar** and **Grind** it
+4. Put **x1 Kozlík** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. **Distil** the contents of the **Cauldron** into a **Phial**
 
@@ -579,19 +579,19 @@ x1 Valerian
 ### Ingredients
 
 ```
-Liquid: Oil
+Liquid: Olej
 x1 Boar’s Tusk
-x1 Eyebright
-x1 Poppy
-x1 Valerian
+x1 Světlík
+x1 Mák
+x1 Kozlík
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Oil** to the **Cauldron**
-2. Add **x1 Poppy** and **x1 Valerian** to the **Cauldron**
+1. Add **Olej** to the **Cauldron**
+2. Add **x1 Mák** and **x1 Kozlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Eyebright** into the **Mortar** and **Grind** it
+4. Put **x1 Světlík** into the **Mortar** and **Grind** it
 5. Put the contents of the **Mortar** into the **Dish**
 6. **Raise** the **Cauldron**
 7. Add the contents of the **Dish** to the **Cauldron**
@@ -601,10 +601,10 @@ x1 Valerian
 
 ### Instructions \[Level 18+]
 
-1. Add **Oil** to the **Cauldron**
-2. Add **x1 Poppy** and **x1 Valerian** to the **Cauldron**
+1. Add **Olej** to the **Cauldron**
+2. Add **x1 Mák** and **x1 Kozlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Eyebright** into the **Mortar** and **Grind** it
+4. Put **x1 Světlík** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the **Raise Cauldron** button
 7. Add **x1 Boar’s Tusk** to the **Cauldron**
@@ -634,21 +634,21 @@ x1 Valerian
 ### Ingredients
 
 ```
-Liquid: Wine
+Liquid: Víno
 x1 Elderberry Leaves
 x3 Feverfew
-x2 Ginger
+x2 Zázvor
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Wine** to the **Cauldron**
+1. Add **Víno** to the **Cauldron**
 2. Add **x3 Feverfew** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. Put **x1 Elderberry Leaves** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the **Raise Cauldron** button
-7. Add **x2 Ginger** to the **Cauldron**
+7. Add **x2 Zázvor** to the **Cauldron**
 8. **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Quantity
@@ -672,37 +672,37 @@ x2 Ginger
 ### Ingredients
 
 ```
-Liquid: Oil
-x1 Belladonna
-x1 Charcoal
-x1 Nettle
-x1 St. John’s Wort
+Liquid: Olej
+x1 Rulík
+x1 Uhlí
+x1 Kopřiva
+x1 Třezalka
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Oil** to the **Cauldron**
-2. Put **x1 Nettle** and **x1 St. John’s Wort** the **Mortar** and **Grind** it
+1. Add **Olej** to the **Cauldron**
+2. Put **x1 Kopřiva** and **x1 Třezalka** the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
-5. Put **x1 Charcoal** into the **Mortar** and **Grind** it
+5. Put **x1 Uhlí** into the **Mortar** and **Grind** it
 6. Put the contents of the **Mortar** into the **Dish**
 7. **Raise** the **Cauldron**
 8. Add the contents of the **Dish** to the **Cauldron**
-9. Add **x1 Belladonna** to the **Cauldron**
+9. Add **x1 Rulík** to the **Cauldron**
 10. **Lower** the **Cauldron**
 11. **Pour** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 14+]
 
-1. Add **Oil** to the **Cauldron**
-2. Put **x1 Nettle** and **x1 St. John’s Wort** into the **Mortar** and **Grind** it
+1. Add **Olej** to the **Cauldron**
+2. Put **x1 Kopřiva** and **x1 Třezalka** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
-5. Put **x1 Charcoal** into the **Mortar** and **Grind** it
+5. Put **x1 Uhlí** into the **Mortar** and **Grind** it
 6. Add the contents of the **Mortar** to the **Cauldron**
 7. While the animation is playing, repeatedly press the **Raise Cauldron** button
-8. Add **x1 Belladonna** to the **Cauldron**
+8. Add **x1 Rulík** to the **Cauldron**
 9. **Lower** the **Cauldron**
 10. **Pour** the contents of the **Cauldron** into a **Phial**
 
@@ -720,7 +720,7 @@ x1 St. John’s Wort
 | Henry's        | Your Speech goes up by 7, you can complete skill books much faster, and you get a 50% boost to earned experience for 2 days. |
 
 ### Notes
-- If you have a perk that allows for mistakes (or brew between 00:00-04:30 with the **Dark Arts Apprentice** perk), you can skip the step of raising and lowering the **Cauldron**, immediately adding **x1 Belladonna** instead. This gives x1 less than normal.
+- If you have a perk that allows for mistakes (or brew between 00:00-04:30 with the **Dark Arts Apprentice** perk), you can skip the step of raising and lowering the **Cauldron**, immediately adding **x1 Rulík** instead. This gives x1 less than normal.
 
 ---
 
@@ -729,20 +729,20 @@ x1 St. John’s Wort
 ### Ingredients
 
 ```
-Liquid: Water
-x1 Mint
-x1 Sage
-x1 St. John’s Wort
+Liquid: Voda
+x1 Máta
+x1 Šalvěj
+x1 Třezalka
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x1 Sage** & **x1 St. John’s Wort** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x1 Šalvěj** & **x1 Třezalka** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. While the animation is playing, repeatedly press the turn **Hourglass** button
 5. Just before the **Hourglass** runs out, turn the **Hourglass** again**
-6. When the **Hourglass** is halfway, put **x1 Mint** into the **Mortar** and **Grind** it
+6. When the **Hourglass** is halfway, put **x1 Máta** into the **Mortar** and **Grind** it
 7. Put the contents of the **Mortar** into the **Dish**
 8. **Raise** the **Cauldron**
 9. Add the contents of the **Dish** to the **Cauldron**
@@ -750,10 +750,10 @@ x1 St. John’s Wort
 
 ### Instructions \[Level 18+?]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x1 Sage** & **x1 St. John’s Wort** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x1 Šalvěj** & **x1 Třezalka** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Mint** into the **Mortar** and **Grind** it
+4. Put **x1 Máta** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the **Raise Cauldron** button
 7. **Pour** the contents of the **Cauldron** into **Phial**
@@ -778,31 +778,31 @@ x1 St. John’s Wort
 ### Ingredients
 
 ```
-Liquid: Water
-x1 Charcoal
-x1 Saltpetre  
-x1 Sulphur
+Liquid: Voda
+x1 Uhlí
+x1 Ledek  
+x1 Síra
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Water** to the **Cauldron**
-2. Put **x1 Saltpetre** and **x1 Sulphur** into the **Mortar** and **Grind** it
+1. Add **Voda** to the **Cauldron**
+2. Put **x1 Ledek** and **x1 Síra** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
 5. While the animation is playing, repeatedly press the turn **Hourglass** button
-6. When the **Hourglass** is halfway, put **x1 Charcoal** into the **Mortar** and **Grind** it  
+6. When the **Hourglass** is halfway, put **x1 Uhlí** into the **Mortar** and **Grind** it  
 7. Add the contents of the **Mortar** to the **Cauldron**
 8. While the animation is playing, repeatedly press the turn **Hourglass** button
 9. When the **Hourglass** is halfway, **Pour** the contents of the **Cauldron** into the **Mortar** and **Grind** it
 
 ### Instructions \[Level 22+]
 
-1. Add **Water** to the **Cauldron**
-2. Put **x1 Saltpetre** and **x1 Sulphur** into the **Mortar** and **Grind** it
+1. Add **Voda** to the **Cauldron**
+2. Put **x1 Ledek** and **x1 Síra** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
-5. Put **x1 Charcoal** into the **Mortar** and **Grind** it
+5. Put **x1 Uhlí** into the **Mortar** and **Grind** it
 6. Add the contents of the **Mortar** to the **Cauldron**
 7. **Pour** the contents of the **Cauldron** into the **Mortar** and **Grind** it
 
@@ -822,39 +822,39 @@ x1 Sulphur
 
 ---
 
-## Lethean Water
+## Lethean Voda
 *No. 16*
 ### Ingredients
 
 ```
-Liquid: Spirits
-x1 Belladonna
-x1 Henbane
-x2 Wormwood
+Liquid: Kořalka
+x1 Rulík
+x1 Blín
+x2 Pelyněk
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Put **x2 Wormwood** into the **Mortar** and **Grind** it
+1. Add **Kořalka** to the **Cauldron**
+2. Put **x2 Pelyněk** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Belladonna** to the **Cauldron**
+4. Add **x1 Rulík** to the **Cauldron**
 5. **Lower** the **Cauldron**
 6. While the animation is playing, repeatedly press the turn **Hourglass** button
 7. Just before the **Hourglass** runs out, turn the **Hourglass** again
 8. Just before the **Hourglass** runs out the 2nd time, turn the **Hourglass** again
 9. Just before the **Hourglass** runs out the 3rd time, **Raise** the **Cauldron**
-10. Add **x1 Henbane** to the **Cauldron**
+10. Add **x1 Blín** to the **Cauldron**
 11. **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 16+]
 
-1. Add **Spirits** to the **Cauldron**
-2. Put **x2 Wormwood** into the **Mortar** and **Grind** it
+1. Add **Kořalka** to the **Cauldron**
+2. Put **x2 Pelyněk** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Belladonna** to the **Cauldron**
+4. Add **x1 Rulík** to the **Cauldron**
 5. **Lower** the **Cauldron**
-6. Add **x1 Henbane** to the **Cauldron**
+6. Add **x1 Blín** to the **Cauldron**
 7. **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Quantity
@@ -877,17 +877,17 @@ x2 Wormwood
 ### Ingredients
 
 ```
-Liquid: Spirits
-x2 Mint
-x2 Sage
+Liquid: Kořalka
+x2 Máta
+x2 Šalvěj
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x2 Sage** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x2 Šalvěj** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Mint** into the **Mortar** and **Grind** it
+4. Put **x2 Máta** into the **Mortar** and **Grind** it
 5. Put the contents of the **Mortar** into the **Dish**
 6. **Raise** the **Cauldron**
 7. Add the contents of the **Dish** to the **Cauldron**
@@ -895,10 +895,10 @@ x2 Sage
 
 ### Instructions \[Level 16+]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x2 Sage** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x2 Šalvěj** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Mint** into the **Mortar** and **Grind** it
+4. Put **x2 Máta** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the **Raise Cauldron** button
 7. **Pour** the contents of the **Cauldron** into a **Phial**
@@ -923,33 +923,33 @@ x2 Sage
 ### Ingredients
 
 ```
-Liquid: Oil
-x1 Herb Paris
-x1 Poppy
-x1 Thistle
+Liquid: Olej
+x1 Vraní oko
+x1 Mák
+x1 Bodlák
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Oil** to the **Cauldron**
-2. Add **x1 Poppy** to the **Cauldron**
+1. Add **Olej** to the **Cauldron**
+2. Add **x1 Mák** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. While the animation is playing, repeatedly press the turn **Hourglass** button
-5. Just before the **Hourglass** runs out, add **x1 Thistle** to the **Cauldron**
+5. Just before the **Hourglass** runs out, add **x1 Bodlák** to the **Cauldron**
 6. While the animation is playing, repeatedly press the turn **Hourglass** button
 7. Just before the **Hourglass** runs out, **Raise** the **Cauldron**
-8. Put **x1 Herb Paris** into the **Mortar** and **Grind** it
+8. Put **x1 Vraní oko** into the **Mortar** and **Grind** it
 9. Add the contents of the **Mortar** to the **Cauldron**
 10. **Pour** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 16+]
 
-1. Add **Oil** to the **Cauldron**
-2. Add **x1 Poppy** to the **Cauldron**
+1. Add **Olej** to the **Cauldron**
+2. Add **x1 Mák** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Herb Paris** into the **Mortar** and **Grind** it
+4. Put **x1 Vraní oko** into the **Mortar** and **Grind** it
 5. Put the contents of the **Mortar** into the **Dish**
-6. Add **x1 Thistle** to the **Cauldron**
+6. Add **x1 Bodlák** to the **Cauldron**
 7. Add the contents of the **Dish** to the **Cauldron**
 8. While the animation is playing, repeatedly press the **Raise Cauldron** button
 9. **Pour** the contents of the **Cauldron** into a **Phial**
@@ -969,22 +969,22 @@ x1 Thistle
 
 ---
 
-## Marigold Decoction
+## Měsíček Decoction
 *No. 19*
 ### Ingredients
 
 ```
-Liquid: Water
-x2 Marigold
-x1 Nettle
+Liquid: Voda
+x2 Měsíček
+x1 Kopřiva
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x1 Nettle** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x1 Kopřiva** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Marigold** into the **Mortar** and **Grind** it
+4. Put **x2 Měsíček** into the **Mortar** and **Grind** it
 5. Put the contents of the **Mortar** into the **Dish**
 6. **Raise** the **Cauldron**
 7. Add the contents of the **Dish** to the **Cauldron**
@@ -992,10 +992,10 @@ x1 Nettle
 
 ### Instructions \[Level 18+]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x1 Nettle** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x1 Kopřiva** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Marigold** into the **Mortar** and **Grind** it
+4. Put **x2 Měsíček** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the **Raise Cauldron** button
 7. **Pour** the contents into a **Phial**
@@ -1015,37 +1015,37 @@ x1 Nettle
 
 ---
 
-## Mintha Perfume
+## Mátaha Perfume
 *No. 20*
 ### Ingredients
 
 ```
-Liquid: Wine
-x3 Dandelion
-x1 Marigold
-x1 Mint
+Liquid: Víno
+x3 Pampeliška
+x1 Měsíček
+x1 Máta
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Wine** to the **Cauldron**
-2. Put **x3 Dandelion** and **x1 Mint** into the **Mortar** and **Grind** it
+1. Add **Víno** to the **Cauldron**
+2. Put **x3 Pampeliška** and **x1 Máta** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
 5. While the animation is playing, repeatedly press the turn **Hourglass** button
 6. Just before the **Hourglass** runs out, turn the **Hourglass** again
-7. Just before the **Hourglass** runs out the 2nd time, add **x1 Marigold** to the **Cauldron**
+7. Just before the **Hourglass** runs out the 2nd time, add **x1 Měsíček** to the **Cauldron**
 8. Pump the **Bellows x5** times
 9. **Raise** the **Cauldron**
 10. **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 18+]
 
-1. Add **Wine** to the **Cauldron**
-2. Put **x3 Dandelion** and **x1 Mint** into the **Mortar** and **Grind** it
+1. Add **Víno** to the **Cauldron**
+2. Put **x3 Pampeliška** and **x1 Máta** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
-5. Add **x1 Marigold** to the **Cauldron**
+5. Add **x1 Měsíček** to the **Cauldron**
 6. Pump the **Bellows x1** time
 7. **Distil** the contents of the **Cauldron** into a **Phial**
 
@@ -1069,17 +1069,17 @@ x1 Mint
 ### Ingredients
 
 ```
-Liquid: Spirits
-x2 Mint
-x2 Wormwood
+Liquid: Kořalka
+x2 Máta
+x2 Pelyněk
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Add **x2 Wormwood** to the **Cauldron**
+1. Add **Kořalka** to the **Cauldron**
+2. Add **x2 Pelyněk** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Mint** into the **Mortar** and **Grind** it
+4. Put **x2 Máta** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. **Distil** the contents of the **Cauldron** into a **Phial**
 
@@ -1100,22 +1100,22 @@ x2 Wormwood
 ### Ingredients
 
 ```
-Liquid: Water
-x1 Belladonna
-x1 Chamomile
-x2 Eyebright
+Liquid: Voda
+x1 Rulík
+x1 Heřmánek
+x2 Světlík
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Water** to the **Cauldron**
-2. Put **x2 Eyebright** into the **Mortar** and **Grind** it
+1. Add **Voda** to the **Cauldron**
+2. Put **x2 Světlík** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Belladonna** to the **Cauldron**
+4. Add **x1 Rulík** to the **Cauldron**
 5. **Lower** the **Cauldron**
 6. While the animation is playing, repeatedly press the turn **Hourglass** button
 7. Just before the **Hourglass** runs out, turn the **Hourglass** again
-8. When the **Hourglass** is halfway, put **x1 Chamomile** into the **Mortar** and **Grind** it
+8. When the **Hourglass** is halfway, put **x1 Heřmánek** into the **Mortar** and **Grind** it
 9. Put the contents of the **Mortar** into the **Dish**
 10. **Raise** the **Cauldron**
 11. Add the contents of the **Dish** to the **Cauldron**
@@ -1123,12 +1123,12 @@ x2 Eyebright
 
 ### Instructions \[Level 18+]
 
-1. Add **Water** to the **Cauldron**
-2. Put **x2 Eyebright** into the **Mortar** and **Grind** it
+1. Add **Voda** to the **Cauldron**
+2. Put **x2 Světlík** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Belladonna** to the **Cauldron**
+4. Add **x1 Rulík** to the **Cauldron**
 5. **Lower** the **Cauldron**
-6. Put **x1 Chamomile** into the **Mortar** and **Grind** it
+6. Put **x1 Heřmánek** into the **Mortar** and **Grind** it
 7. Add the contents of the **Mortar** to the **Cauldron**
 8. While the animation is playing, repeatedly press the **Raise Cauldron** button
 9. **Pour** the contents of the **Cauldron** into a **Phial**
@@ -1153,33 +1153,33 @@ x2 Eyebright
 ### Ingredients
 
 ```
-Liquid: Spirits
-x1 Comfrey
-x1 Marigold
-x3 Poppy
+Liquid: Kořalka
+x1 Kostival
+x1 Měsíček
+x3 Mák
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Spirits** to the **Cauldron**
-2. Put **x3 Poppy** into the **Mortar** and **Grind** it
+1. Add **Kořalka** to the **Cauldron**
+2. Put **x3 Mák** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Marigold** to the **Cauldron**
+4. Add **x1 Měsíček** to the **Cauldron**
 5. **Lower** the **Cauldron**
 6. Pump the **Bellows x5 times
-7. Add **x1 Comfrey** to the **Cauldron**
+7. Add **x1 Kostival** to the **Cauldron**
 8. While the animation is playing, repeatedly press the turn **Hourglass** button
 9. Just before the **Hourglass** runs out, **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 20+]
 
-1. Add **Spirits** to the **Cauldron**
-2. Put **x3 Poppy** into the **Mortar** and **Grind** it
+1. Add **Kořalka** to the **Cauldron**
+2. Put **x3 Mák** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Marigold** to the **Cauldron**
+4. Add **x1 Měsíček** to the **Cauldron**
 5. **Lower** the **Cauldron**
 6. Pump the **Bellows x1** time
-7. Add **x1 Comfrey** to the **Cauldron**
+7. Add **x1 Kostival** to the **Cauldron**
 8. **Distil** the contents of the **Cauldron** into a **Phial**
 
 ### Quantity
@@ -1202,20 +1202,20 @@ x3 Poppy
 ### Ingredients
 
 ```
-Liquid: Water
+Liquid: Voda
 x1 Cobweb
-x2 Eyebright
-x2 Valerian
+x2 Světlík
+x2 Kozlík
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x1 Cobweb** and **x2 Eyebright** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x1 Cobweb** and **x2 Světlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. While the animation is playing, repeatedly press the turn **Hourglass** button
 5. Wait until the **Hourglass** runs out
-6. Put **x2 Valerian** into the **Mortar** and **Grind** it  
+6. Put **x2 Kozlík** into the **Mortar** and **Grind** it  
 7. Add the contents of the **Mortar** to the **Cauldron**
 8. While the animation is playing, repeatedly press the turn **Hourglass** button
 9. When the **Hourglass** is halfway, **Raise** the **Cauldron**
@@ -1223,10 +1223,10 @@ x2 Valerian
 
 ### Instructions \[Level 24+]
 
-1. Add **Water** to the **Cauldron**
-2. Add **x1 Cobweb** and **x2 Eyebright** to the **Cauldron**
+1. Add **Voda** to the **Cauldron**
+2. Add **x1 Cobweb** and **x2 Světlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x2 Valerian** into the **Mortar** and **Grind** it  
+4. Put **x2 Kozlík** into the **Mortar** and **Grind** it  
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. **Pour** the contents of the **Cauldron** into a **Phial**
 
@@ -1250,17 +1250,17 @@ x2 Valerian
 ### Ingredients
 
 ```
-Liquid: Wine
-x2 Belladonna
-x1 Nettle
+Liquid: Víno
+x2 Rulík
+x1 Kopřiva
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Wine** to the **Cauldron**
-2. Add **x1 Nettle** to the **Cauldron**
+1. Add **Víno** to the **Cauldron**
+2. Add **x1 Kopřiva** to the **Cauldron**
 3. **Lower** the **Cauldron** 
-4. Put **x2 Belladonna** into the **Mortar** and **Grind** it
+4. Put **x2 Rulík** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the turn **Hourglass** button
 7. When the **Hourglass** is halfway, **Raise** the **Cauldron**
@@ -1268,10 +1268,10 @@ x1 Nettle
 
 ### Instructions \[Level 22+]
 
-1. Add **Wine** to the **Cauldron**
-2. Add **x1 Nettle** to the **Cauldron**
+1. Add **Víno** to the **Cauldron**
+2. Add **x1 Kopřiva** to the **Cauldron**
 3. **Lower** the **Cauldron** 
-4. Put **x2 Belladonna** into the **Mortar** and **Grind** it
+4. Put **x2 Rulík** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. **Pour** contents of the **Cauldron** into a **Phial**
 
@@ -1295,16 +1295,16 @@ x1 Nettle
 ### Ingredients
 
 ```
-Liquid: Water
+Liquid: Voda
 x1 Leached Coal
-x1 Saltpetre
-x1 Sulphur
+x1 Ledek
+x1 Síra
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Water** to the **Cauldron**
-2. Put **x1 Saltpetre** and **x1 Sulphur** into the **Mortar** and **Grind** it
+1. Add **Voda** to the **Cauldron**
+2. Put **x1 Ledek** and **x1 Síra** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
 5. While the animation is playing, repeatedly press the turn **Hourglass** button
@@ -1315,8 +1315,8 @@ x1 Sulphur
 
 ### Instructions \[Level 14+]
 
-1. Add **Water** to the **Cauldron**
-2. Put **x1 Saltpetre** and **x1 Sulphur** into the **Mortar** and **Grind** it
+1. Add **Voda** to the **Cauldron**
+2. Put **x1 Ledek** and **x1 Síra** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
 5. Put **x1 Leached Coal** into the **Mortar** and **Grind** it
@@ -1344,21 +1344,21 @@ x1 Sulphur
 ### Ingredients
 
 ```
-Liquid: Oil
-x1 Charcoal
-x1 Dandelion
-x2 Thistle
+Liquid: Olej
+x1 Uhlí
+x1 Pampeliška
+x2 Bodlák
 ```
 
 ### Instructions \[Any Level]
 
-1. Add **Oil** to the **Cauldron**
-2. Put **x2 Thistle** into the **Mortar** and **Grind** it
+1. Add **Olej** to the **Cauldron**
+2. Put **x2 Bodlák** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
-5. Put **x1 Charcoal** into the **Mortar** and **Grind** it
+5. Put **x1 Uhlí** into the **Mortar** and **Grind** it
 6. Put the contents of the **Mortar** into the **Dish**
-7. Add **x1 Dandelion** to the **Cauldron**
+7. Add **x1 Pampeliška** to the **Cauldron**
 8. While the animation is playing, repeatedly press the turn **Hourglass** button
 9. Just before the **Hourglass** runs out, **Raise** the **Cauldron**
 10. Add the contents of the **Dish** to the **Cauldron**
@@ -1366,13 +1366,13 @@ x2 Thistle
 
 ### Instructions \[Level 16+]
 
-1. Add **Oil** to the **Cauldron**
-2. Put **x2 Thistle** into the **Mortar** and **Grind** it
+1. Add **Olej** to the **Cauldron**
+2. Put **x2 Bodlák** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
-5. Put **x1 Charcoal** into the **Mortar** and **Grind** it
+5. Put **x1 Uhlí** into the **Mortar** and **Grind** it
 6. Put the contents of the **Mortar** into the **Dish**
-7. Add **x1 Dandelion** to the **Cauldron**
+7. Add **x1 Pampeliška** to the **Cauldron**
 8. Add the contents of the **Dish** to the **Cauldron**
 9. While the animation is playing, **Raise** the **Cauldron**
 10. **Pour** the contents of the **Cauldron** into a **Phial**
