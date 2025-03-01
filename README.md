@@ -20,16 +20,16 @@ The hourglass is *actually* a *10 second glass*, as that's how long it takes for
 * Without **Dark Arts Apprentice** active, you may use up to 66% dried herbs without it being considered a loss in quality. **Note:** At least one herb must be fresh (i.e. not Uhlí or boar's tusk).
 * With **Dark Arts Apprentice** active, you may replace all herbs with dried herbs without it being considered a loss in quality.
 
-Testing of dried herbs was done with Mátaha perfume and Dollmaker poison, where you can get away with 3/5 and 2/3 herbs being dried, resulting in a 66% dried/fresh ratio.  
+Testing of dried herbs was done with Mintha and Dollmaker poison, where you can get away with 3/5 and 2/3 herbs being dried, resulting in a 66% dried/fresh ratio.  
 
 ### Perks
 - **Secret of Secrets** unlocks *Henry's level* of potions and poisons. However, not all alchemy recipes have levels. This guide will always deliver the best quality.
-- **Secret of Matter / II** unlocks additional potions when brewing. Together they will give x6 potions and poisons, x8 soap, and x18 powders.
-- **Secret of Equilibrium / II** is not required. The following guide does not require those perks to achieve maximum quality. If you have taken one of these perks, you may create and consume *Lethean Voda* to reset all your perks.
+- **Secret of Matter / II** unlocks additional potions when brewing. Together they will give x6 potions and poisons, x8 Mýdlo, and x18 powders.
+- **Secret of Equilibrium / II** is not required. The following guide does not require those perks to achieve maximum quality. If you have taken one of these perks, you may create and consume *Doušek Léthé* to reset all your perks.
 - **Dark Arts Apprentice** allows you to use only dried herbs if you brew the potion within 00:00–04:30. It also allows you to get up to one mistake without lowering the quality of the final product. However, it will lower the quantity. Therefore it is recommended to not cut corners to get the max quantity.
 
 ### Leveling Alchemy
-If you want to level alchemy I would recommend mostly brew Saviour Schnapps until you can brew Henry's level quality. Then after that, a mix of Fox, Měsíček Decoctions, and Saviour Schnapps. Make sure to drink a Henry's Fox potion for the 50% xp gain when leveling alchemy (or any stat/skill for that matter).  
+If you want to level alchemy I would recommend mostly brew Sejvovice until you can brew Henry's level quality. Then after that, a mix of Lišák, Měsíčkový odvars, and Sejvovice. Make sure to drink a Henry's Lišák potion for the 50% xp gain when leveling alchemy (or any stat/skill for that matter).  
 
 All three potions are useful throughout your playthrough from beginning to end, and even though some potions are faster to brew, you won't necessarily use them during your playthrough.  
 
@@ -45,7 +45,7 @@ I have used the word *Add* whenever something is added to a **Cauldron**, and th
 
 ### Recognition
 [Lazarus](https://www.youtube.com/watch?v=VstG120CoPM) - Origin for the idea of not following the recipes directly.  
-[RandomedXY](https://www.reddit.com/r/kingdomcome/comments/1ir7sw7/comment/md7uk9k/) - Even faster Saviour Schnapps recipe which helped me do further testing to improve the rest of the recipes.  
+[RandomedXY](https://www.reddit.com/r/kingdomcome/comments/1ir7sw7/comment/md7uk9k/) - Even faster Sejvovice recipe which helped me do further testing to improve the rest of the recipes.  
 [Flack1](https://www.reddit.com/r/kingdomcome/comments/1ir7sw7/comment/md7b059/) - Clarification regarding dried herbs.  
 
 ### Up-to-date Guide
@@ -59,32 +59,32 @@ All potions were tested in version:
 
 ## Table of Contents
 1. [Aesop](#aesop)
-2. [Aqua Vitalis](#aqua-vitalis)
-3. [Artemisia](#artemisia)
-4. [Bane Poison](#bane-poison)
-5. [Bowman’s Brew](#bowmans-brew)
-6. [Buck’s Blood Potion](#bucks-blood-potion)
-7. [Heřmánek Decoction](#Heřmánek-decoction)
-8. [Cockerel](#cockerel)
-9. [Digestive Potion](#digestive-potion)
-10. [Dollmaker Potion](#dollmaker-potion)
+2. [Živá voda](#aqua-vitalis)
+3. [Pelyňkovice](#Pelyňkovice)
+4. [Zhouba](#bane-poison)
+5. [Lovcova domácí](#bowmans-brew)
+6. [Životabudič](#bucks-blood-potion)
+7. [Heřmánkový odvar](#Heřmánek-decoction)
+8. [Vzpruha](#Vzpruha)
+9. [Žaludeční odvar](#digestive-potion)
+10. [Paralýza](#dollmaker-potion)
 11. [Embrocation](#embrocation)
 12. [Fever Tonic](#fever-tonic)
-13. [Fox](#fox)
-14. [Hair o’ the Dog](#hair-o-the-dog)
+13. [Lišák](#Lišák)
+14. [Vyprošťovák](#hair-o-the-dog)
 15. [Lead Shot Gunpowder](#lead-shot-gunpowder)
-16. [Lethean Voda](#lethean-Voda)
-17. [Lion Perfume](#lion-perfume)
-18. [Lullaby](#lullaby)
-19. [Měsíček Decoction](#Měsíček-decoction)
-20. [Mátaha Perfume](#Mátaha-perfume)
-21. [Moonshine](#moonshine)
+16. [Doušek Léthé](#lethean-Voda)
+17. [Lev](#lion-perfume)
+18. [Uspávadlo](#Uspávadlo)
+19. [Měsíčkový odvar](#Měsíček-decoction)
+20. [Mintha](#Mátaha-perfume)
+21. [Pálenka](#Pálenka)
 22. [Nighthawk](#nighthawk)
-23. [Painkiller Brew](#painkiller-brew)
+23. [Odvar proti bolesti](#painkiller-brew)
 24. [Quickfinger](#quickfinger)
-25. [Saviour Schnapps](#saviour-schnapps)
+25. [Sejvovice](#saviour-schnapps)
 26. [Scattershot Powder](#scattershot-powder)
-27. [Soap](#soap)
+27. [Mýdlo](#Mýdlo)
 
 ---
 
@@ -139,7 +139,7 @@ x2 Kostival
 
 ---
 
-## Aqua Vitalis
+## Živá voda
 *No. 02*
 ### Ingredients
 
@@ -184,7 +184,7 @@ x1 Měsíček
 
 ---
 
-## Artemisia
+## Pelyňkovice
 *No. 03*
 ### Ingredients
 
@@ -228,7 +228,7 @@ x2 Pelyněk
 
 ---
 
-## Bane Poison
+## Zhouba
 *No. 04*
 ### Ingredients
 
@@ -278,7 +278,7 @@ x1 Pelyněk
 
 ---
 
-## Bowman’s Brew
+## Lovcova domácí
 *No. 05*
 ### Ingredients
 
@@ -330,7 +330,7 @@ x1 Třezalka
 
 ---
 
-## Buck’s Blood Potion
+## Životabudič
 *No. 06*
 ### Ingredients
 
@@ -381,7 +381,7 @@ x1 Třezalka
 
 ---
 
-## Heřmánek Decoction
+## Heřmánkový odvar
 *No. 07*
 ### Ingredients
 
@@ -429,7 +429,7 @@ x1 Šalvěj
 
 ---
 
-## Cockerel
+## Vzpruha
 *No. 08*
 ### Ingredients
 
@@ -475,7 +475,7 @@ x1 Kozlík
 
 ---
 
-## Digestive Potion
+## Žaludeční odvar
 *No. 09*
 ### Ingredients
 
@@ -528,7 +528,7 @@ x2 Bodlák
 
 ---
 
-## Dollmaker Potion
+## Paralýza
 *No. 10*
 ### Ingredients
 
@@ -667,7 +667,7 @@ x2 Zázvor
 
 ---
 
-## Fox
+## Lišák
 *No. 13*
 ### Ingredients
 
@@ -724,7 +724,7 @@ x1 Třezalka
 
 ---
 
-## Hair o’ the Dog
+## Vyprošťovák
 *No. 14*
 ### Ingredients
 
@@ -818,11 +818,11 @@ x1 Síra
 | Standard       | Gunpowder used to fire lead shot that even the best plate armour can't stop at close range. For safety reasons, load only when sober. |
 
 ### Notes
-- You will die if you are under the influence of alcohol (for example drinking a saviour schnapps before brewing)
+- You will die if you are under the influence of alcohol (for example drinking a Sejvovice before brewing)
 
 ---
 
-## Lethean Voda
+## Doušek Léthé
 *No. 16*
 ### Ingredients
 
@@ -872,7 +872,7 @@ x2 Pelyněk
 
 ---
 
-## Lion Perfume
+## Lev
 *No. 17*
 ### Ingredients
 
@@ -918,7 +918,7 @@ x2 Šalvěj
 
 ---
 
-## Lullaby
+## Uspávadlo
 *No. 18*
 ### Ingredients
 
@@ -969,7 +969,7 @@ x1 Bodlák
 
 ---
 
-## Měsíček Decoction
+## Měsíčkový odvar
 *No. 19*
 ### Ingredients
 
@@ -1015,7 +1015,7 @@ x1 Kopřiva
 
 ---
 
-## Mátaha Perfume
+## Mintha
 *No. 20*
 ### Ingredients
 
@@ -1064,7 +1064,7 @@ x1 Máta
 
 ---
 
-## Moonshine
+## Pálenka
 *No. 21*
 ### Ingredients
 
@@ -1091,7 +1091,7 @@ x2 Pelyněk
 ### Effects
 | Potion Quality | Effect                                                                              |
 | -------------- | ----------------------------------------------------------------------------------- |
-| Standard       | Henry's home-made moonshine. A strong drink that is sure to put you in a good mood. |
+| Standard       | Henry's home-made Pálenka. A strong drink that is sure to put you in a good mood. |
 
 ---
 
@@ -1148,7 +1148,7 @@ x2 Světlík
 
 ---
 
-## Painkiller Brew
+## Odvar proti bolesti
 *No. 23*
 ### Ingredients
 
@@ -1245,7 +1245,7 @@ x2 Kozlík
 
 ---
 
-## Saviour Schnapps
+## Sejvovice
 *No. 25*
 ### Ingredients
 
@@ -1335,11 +1335,11 @@ x1 Síra
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Standard       | Gunpowder used to fire scrap iron and other small projectiles. Will pierce anything with ease at close range, but is ineffective at long range. For safety reasons, load only when sober. |
 ### Notes
-- You will die if you are under the influence of alcohol (for example drinking a saviour schnapps before brewing)
+- You will die if you are under the influence of alcohol (for example drinking a Sejvovice before brewing)
 
 ---
 
-## Soap
+## Mýdlo
 *No. 27*
 ### Ingredients
 
@@ -1385,4 +1385,4 @@ x2 Bodlák
 ### Effects
 | Potion Quality | Effect                                        |
 | -------------- | --------------------------------------------- |
-| Standard       | You can't wash your own clothes without soap. |
+| Standard       | You can't wash your own clothes without Mýdlo. |
