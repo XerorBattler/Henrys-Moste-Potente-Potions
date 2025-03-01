@@ -59,7 +59,7 @@ All potions were tested in version:
 ---
 
 ## Table of Contents
-1. [Aesop](#aesop)
+1. [Ezop](#Ezop)
 2. [Živá voda](#Živá-voda)
 3. [Pelyňkovice](#Pelyňkovice)
 4. [Zhouba](#Zhouba)
@@ -69,11 +69,11 @@ All potions were tested in version:
 8. [Vzpruha](#Vzpruha)
 9. [Žaludeční odvar](#Žaludeční-odvar)
 10. [Paralýza](#Paralýza)
-11. [Embrocation](#embrocation)
+11. [Mazání na klouby](#Mazání-na-klouby)
 12. [Fever Tonic](#fever-tonic)
 13. [Lišák](#Lišák)
 14. [Vyprošťovák](#Vyprošťovák)
-15. [Lead Shot Gunpowder](#lead-shot-gunpowder)
+15. [Kule](#Kule)
 16. [Doušek Léthé](#Doušek-Léthé)
 17. [Lev](#Lev)
 18. [Uspávadlo](#Uspávadlo)
@@ -84,19 +84,19 @@ All potions were tested in version:
 23. [Odvar proti bolesti](#Odvar-proti-bolesti)
 24. [Quickfinger](#quickfinger)
 25. [Sejvovice](#Sejvovice)
-26. [Scattershot Powder](#scattershot-powder)
+26. [Střela](#Střela)
 27. [Mýdlo](#Mýdlo)
 
 ---
 
-## Aesop
+## Ezop
 *No. 01*
 ### Ingredients
 
 ```
 Liquid: Kořalka
 x1 Rulík
-x1 Boar’s Tusk
+x1 Kančí kel
 x2 Kostival
 ```
 
@@ -105,7 +105,7 @@ x2 Kostival
 1. Add **Kořalka** to the **Cauldron**
 2. Put **x2 Kostival** into **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Boar’s Tusk** to the **Cauldron** 
+4. Add **x1 Kančí kel** to the **Cauldron** 
 5. **Lower** the **Cauldron**
 6. Put **x1 Rulík** into the **Mortar** and **Grind** it
 7. Put the contents of the **Mortar** into the **Dish**
@@ -118,7 +118,7 @@ x2 Kostival
 1. Add **Kořalka** to the **Cauldron**
 2. Put **x2 Kostival** into **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
-4. Add **x1 Boar’s Tusk** to the **Cauldron** 
+4. Add **x1 Kančí kel** to the **Cauldron** 
 5. **Lower** the **Cauldron**
 6. Put **x1 Rulík** into the **Mortar** and **Grind** it
 7. Add the contents of the **Mortar** to the **Cauldron**
@@ -575,40 +575,40 @@ x1 Kozlík
 
 ---
 
-## Embrocation
+## Mazání na klouby
 *No. 11*
 ### Ingredients
 
 ```
 Liquid: Olej
-x1 Boar’s Tusk
+x1 Kančí kel
 x1 Světlík
-x1 Mák
+x1 Vlčí mák
 x1 Kozlík
 ```
 
 ### Instructions \[Any Level]
 
 1. Add **Olej** to the **Cauldron**
-2. Add **x1 Mák** and **x1 Kozlík** to the **Cauldron**
+2. Add **x1 Vlčí mák** and **x1 Kozlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. Put **x1 Světlík** into the **Mortar** and **Grind** it
 5. Put the contents of the **Mortar** into the **Dish**
 6. **Raise** the **Cauldron**
 7. Add the contents of the **Dish** to the **Cauldron**
-8. Add **x1 Boar’s Tusk** to the **Cauldron**
+8. Add **x1 Kančí kel** to the **Cauldron**
 9. **Lower** the **Cauldron**
 10. **Pour** the contents of the **Cauldron** into a **Phial**
 
 ### Instructions \[Level 18+]
 
 1. Add **Olej** to the **Cauldron**
-2. Add **x1 Mák** and **x1 Kozlík** to the **Cauldron**
+2. Add **x1 Vlčí mák** and **x1 Kozlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. Put **x1 Světlík** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the **Raise Cauldron** button
-7. Add **x1 Boar’s Tusk** to the **Cauldron**
+7. Add **x1 Kančí kel** to the **Cauldron**
 8. **Lower** the **Cauldron**
 9. **Pour** the contents of the **Cauldron** into a **Phial**
 
@@ -626,7 +626,7 @@ x1 Kozlík
 | Henry's        | Adds 6 to Agility and lowers the Stamina cost of sprinting by 30% for 10 minutes. |
 
 ### Notes
-- If you have a perk that allows for mistakes (or brew between 00:00-04:30 with the **Dark Arts Apprentice** perk), you can skip the step of raising and lowering the **Cauldron**, instead immediately proceed to adding **x1 Boar’s Tusk**. This will give x1 less than normal.
+- If you have a perk that allows for mistakes (or brew between 00:00-04:30 with the **Dark Arts Apprentice** perk), you can skip the step of raising and lowering the **Cauldron**, instead immediately proceed to adding **x1 Kančí kel**. This will give x1 less than normal.
 
 ---
 
@@ -774,7 +774,7 @@ x1 Třezalka
 
 ---
 
-## Lead Shot Gunpowder
+## Kule
 *No. 15*
 ### Ingredients
 
@@ -926,14 +926,14 @@ x2 Šalvěj
 ```
 Liquid: Olej
 x1 Vraní oko
-x1 Mák
+x1 Vlčí mák
 x1 Bodlák
 ```
 
 ### Instructions \[Any Level]
 
 1. Add **Olej** to the **Cauldron**
-2. Add **x1 Mák** to the **Cauldron**
+2. Add **x1 Vlčí mák** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. While the animation is playing, repeatedly press the turn **Hourglass** button
 5. Just before the **Hourglass** runs out, add **x1 Bodlák** to the **Cauldron**
@@ -946,7 +946,7 @@ x1 Bodlák
 ### Instructions \[Level 16+]
 
 1. Add **Olej** to the **Cauldron**
-2. Add **x1 Mák** to the **Cauldron**
+2. Add **x1 Vlčí mák** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. Put **x1 Vraní oko** into the **Mortar** and **Grind** it
 5. Put the contents of the **Mortar** into the **Dish**
@@ -1157,13 +1157,13 @@ x2 Světlík
 Liquid: Kořalka
 x1 Kostival
 x1 Měsíček
-x3 Mák
+x3 Vlčí mák
 ```
 
 ### Instructions \[Any Level]
 
 1. Add **Kořalka** to the **Cauldron**
-2. Put **x3 Mák** into the **Mortar** and **Grind** it
+2. Put **x3 Vlčí mák** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. Add **x1 Měsíček** to the **Cauldron**
 5. **Lower** the **Cauldron**
@@ -1175,7 +1175,7 @@ x3 Mák
 ### Instructions \[Level 20+]
 
 1. Add **Kořalka** to the **Cauldron**
-2. Put **x3 Mák** into the **Mortar** and **Grind** it
+2. Put **x3 Vlčí mák** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. Add **x1 Měsíček** to the **Cauldron**
 5. **Lower** the **Cauldron**
@@ -1291,13 +1291,13 @@ x1 Kopřiva
 
 ---
 
-## Scattershot Powder
+## Střela
 *No. 26*
 ### Ingredients
 
 ```
 Liquid: Voda
-x1 Leached Coal
+x1 Louhované uhlí
 x1 Ledek
 x1 Síra
 ```
@@ -1310,7 +1310,7 @@ x1 Síra
 4. **Lower** the **Cauldron**
 5. While the animation is playing, repeatedly press the turn **Hourglass** button
 6. Just before the **Hourglass** runs out, turn the **Hourglass**
-7. When the **Hourglass** is halfway, put **x1 Leached Coal** into the **Mortar** and **Grind** it
+7. When the **Hourglass** is halfway, put **x1 Louhované uhlí** into the **Mortar** and **Grind** it
 8. Add the contents of the **Mortar** to the **Cauldron**
 9. **Pour** the contents of the **Cauldron** into the **Mortar** and **Grind** it
 
@@ -1320,7 +1320,7 @@ x1 Síra
 2. Put **x1 Ledek** and **x1 Síra** into the **Mortar** and **Grind** it
 3. Add the contents of the **Mortar** to the **Cauldron**
 4. **Lower** the **Cauldron**
-5. Put **x1 Leached Coal** into the **Mortar** and **Grind** it
+5. Put **x1 Louhované uhlí** into the **Mortar** and **Grind** it
 6. Add the contents of the **Mortar** to the **Cauldron**
 7. **Pour** the contents of the **Cauldron** into the **Mortar** and **Grind** it
 
