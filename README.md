@@ -70,7 +70,7 @@ All potions were tested in version:
 9. [Žaludeční odvar](#Žaludeční-odvar)
 10. [Paralýza](#Paralýza)
 11. [Mazání na klouby](#Mazání-na-klouby)
-12. [Fever Tonic](#fever-tonic)
+12. [Tonicum proti horečce](#Tonicum-proti-horečce)
 13. [Lišák](#Lišák)
 14. [Vyprošťovák](#Vyprošťovák)
 15. [Kule](#Kule)
@@ -630,23 +630,23 @@ x1 Kozlík
 
 ---
 
-## Fever Tonic
+## Tonicum proti horečce
 *No. 12*
 ### Ingredients
 
 ```
 Liquid: Víno
-x1 Elderberry Leaves
-x3 Feverfew
+x1 Listy černého bezu
+x3 Řimbaba
 x2 Zázvor
 ```
 
 ### Instructions \[Any Level]
 
 1. Add **Víno** to the **Cauldron**
-2. Add **x3 Feverfew** to the **Cauldron**
+2. Add **x3 Řimbaba** to the **Cauldron**
 3. **Lower** the **Cauldron**
-4. Put **x1 Elderberry Leaves** into the **Mortar** and **Grind** it
+4. Put **x1 Listy černého bezu** into the **Mortar** and **Grind** it
 5. Add the contents of the **Mortar** to the **Cauldron**
 6. While the animation is playing, repeatedly press the **Raise Cauldron** button
 7. Add **x2 Zázvor** to the **Cauldron**
