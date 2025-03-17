@@ -82,7 +82,7 @@ All potions were tested in version:
 21. [Pálenka](#Pálenka)
 22. [Sýček](#Sýček)
 23. [Odvar proti bolesti](#Odvar-proti-bolesti)
-24. [Quickfinger](#quickfinger)
+24. [Rychloručka](#Rychloručka)
 25. [Sejvovice](#Sejvovice)
 26. [Střela](#Střela)
 27. [Mýdlo](#Mýdlo)
@@ -1198,13 +1198,13 @@ x3 Vlčí mák
 
 ---
 
-## Quickfinger
+## Rychloručka
 *No. 24*
 ### Ingredients
 
 ```
 Liquid: Voda
-x1 Cobweb
+x1 Pavučina
 x2 Světlík
 x2 Kozlík
 ```
@@ -1212,7 +1212,7 @@ x2 Kozlík
 ### Instructions \[Any Level]
 
 1. Add **Voda** to the **Cauldron**
-2. Add **x1 Cobweb** and **x2 Světlík** to the **Cauldron**
+2. Add **x1 Pavučina** and **x2 Světlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. While the animation is playing, repeatedly press the turn **Hourglass** button
 5. Wait until the **Hourglass** runs out
@@ -1225,7 +1225,7 @@ x2 Kozlík
 ### Instructions \[Level 24+]
 
 1. Add **Voda** to the **Cauldron**
-2. Add **x1 Cobweb** and **x2 Světlík** to the **Cauldron**
+2. Add **x1 Pavučina** and **x2 Světlík** to the **Cauldron**
 3. **Lower** the **Cauldron**
 4. Put **x2 Kozlík** into the **Mortar** and **Grind** it  
 5. Add the contents of the **Mortar** to the **Cauldron**
